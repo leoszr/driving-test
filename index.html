@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Simulado de 50 questões para o teste de conhecimentos do NJ MVC.">
+  <title>NJ Drive Prep — Simulado MVC</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="/" aria-label="NJ Drive Prep — início">
+      <span class="brand-mark">NJ</span>
+      <span>NJ Drive Prep</span>
+    </a>
+    <span class="header-note">Simulado não oficial</span>
+  </header>
+
+  <main>
+    <section id="start-screen" class="screen start-screen">
+      <div class="hero">
+        <p class="eyebrow">Prepare-se com confiança</p>
+        <h1>Seu teste do NJ MVC começa aqui.</h1>
+        <p class="lead">50 questões sorteadas de um banco revisado com base no New Jersey Driver Manual. Acerte 40 para atingir 80%.</p>
+        <button id="start-button" class="button button-primary" type="button">Começar simulado</button>
+      </div>
+
+      <aside class="stats-card" aria-labelledby="history-title">
+        <div class="stats-heading">
+          <div>
+            <p class="eyebrow">Neste navegador</p>
+            <h2 id="history-title">Seu histórico</h2>
+          </div>
+          <button id="clear-history" class="text-button" type="button" hidden>Limpar</button>
+        </div>
+        <div id="empty-history" class="empty-state">
+          <strong>Nenhum simulado ainda.</strong>
+          <span>Seus resultados aparecerão aqui.</span>
+        </div>
+        <div id="history-content" hidden>
+          <div class="summary-stats">
+            <div><span>Melhor nota</span><strong id="best-score">—</strong></div>
+            <div><span>Última nota</span><strong id="last-score">—</strong></div>
+          </div>
+          <ol id="history-list" class="history-list"></ol>
+        </div>
+      </aside>
+    </section>
+
+    <section id="quiz-screen" class="screen quiz-screen" hidden aria-labelledby="question-title">
+      <div class="progress-row">
+        <span id="progress-label">Questão 1 de 50</span>
+        <span id="live-score">0 acertos</span>
+      </div>
+      <div class="progress-track" aria-hidden="true"><span id="progress-bar"></span></div>
+
+      <article class="question-card">
+        <p id="question-number" class="eyebrow">Questão 1</p>
+        <h1 id="question-title"></h1>
+        <img id="question-image" class="question-image" alt="Ilustração da questão" hidden>
+        <fieldset id="options" class="options">
+          <legend class="sr-only">Escolha uma alternativa</legend>
+        </fieldset>
+        <div id="feedback" class="feedback" role="status" aria-live="polite" hidden></div>
+        <button id="next-button" class="button button-primary next-button" type="button" hidden>Próxima questão</button>
+      </article>
+    </section>
+
+    <section id="result-screen" class="screen result-screen" hidden aria-labelledby="result-title">
+      <div id="result-badge" class="result-badge"></div>
+      <p class="eyebrow">Simulado concluído</p>
+      <h1 id="result-title"></h1>
+      <p id="result-copy" class="lead"></p>
+      <div class="result-score"><strong id="final-score">0</strong><span>/ 50</span></div>
+      <div class="result-actions">
+        <button id="retry-button" class="button button-primary" type="button">Fazer novo simulado</button>
+        <button id="home-button" class="button button-secondary" type="button">Voltar ao início</button>
+      </div>
+    </section>
+
+    <section id="error-screen" class="screen error-screen" hidden>
+      <p class="eyebrow">Não foi possível carregar</p>
+      <h1>O banco de perguntas está indisponível.</h1>
+      <p class="lead">Recarregue a página para tentar novamente.</p>
+      <button class="button button-primary" type="button" onclick="location.reload()">Recarregar</button>
+    </section>
+  </main>
+
+  <footer>
+    Material independente. Consulte sempre o <a href="https://www.nj.gov/mvc/about/manuals.htm" target="_blank" rel="noreferrer">manual oficial do NJ MVC</a>.
+  </footer>
+</body>
+</html>
