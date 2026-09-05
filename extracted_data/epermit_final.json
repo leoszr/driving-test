@@ -1,0 +1,189 @@
+[
+  {
+    "id": "EP-01",
+    "file": "WhatsApp Image 2026-09-04 at 20.23.59 (1).jpeg",
+    "title": "Aceleração em faixa de acesso para entrar em rodovia",
+    "question": "Ao entrar em uma rodovia com acesso que permite aceleração para ingressar na via principal, você deve dirigir na seguinte velocidade:",
+    "image": "images/i601.png",
+    "image_status": "identificada",
+    "image_desc": "Diagrama de fluxo de veículos ingressando na rodovia via faixa de aceleração",
+    "options": {
+      "A": "Aproximadamente 16 km/h abaixo do fluxo do tráfego",
+      "B": "Aproximadamente na mesma velocidade do tráfego em uma rodovia.",
+      "C": "Velocidade legal do tráfego em rodovias",
+      "D": "Mais rápido que o trânsito em uma rodovia"
+    },
+    "answer": "B",
+    "explanation": "A chave para entrar numa autoestrada é acelerar na faixa de acesso para igualar a velocidade do tráfego na faixa da direita. Sinalize antes de entrar para indicar que deseja fazê-lo. Verifique o tráfego ao seu redor e quando estiver livre, entre com cuidado. Não cruze uma linha contínua nem atravesse a área de segurança."
+  },
+  {
+    "id": "EP-02",
+    "file": "WhatsApp Image 2026-09-04 at 20.23.59 (2).jpeg",
+    "title": "Linhas amarelas contínuas duplas no centro da pista",
+    "question": "Se houver duas linhas amarelas contínuas no centro da pista, você:",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual",
+    "options": {
+      "A": "Pode cruzar as linhas para virar à esquerda e entrar numa garagem particular.",
+      "B": "Estão em uma rua de mão única com duas faixas.",
+      "C": "As linhas devem ser tratadas como uma parede sólida e não devem ser cruzadas por nenhum motivo.",
+      "D": "Pode cruzar as linhas para ultrapassar o tráfego mais lento."
+    },
+    "answer": "A",
+    "explanation": "Linhas duplas amarelas contínuas proíbem ultrapassagem em ambos os sentidos, mas a legislação permite cruzá-las para efetuar conversão à esquerda para entrar ou sair de uma propriedade privada ou via de acesso."
+  },
+  {
+    "id": "EP-03",
+    "file": "WhatsApp Image 2026-09-04 at 20.23.59 (3).jpeg",
+    "title": "Entrada ilegal em cruzamento congestionado",
+    "question": "É ilegal entrar em um cruzamento quando:",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual",
+    "options": {
+      "A": "Não é possível atravessar sem obstruir o trânsito em ambos os lados.",
+      "B": "A faixa em que você deseja entrar está bloqueada.",
+      "C": "A luz é amarela.",
+      "D": "O sinal está piscando em amarelo e você ainda não parou completamente."
+    },
+    "answer": "A",
+    "explanation": "Mesmo que o semáforo esteja verde, é infração ingressar em um cruzamento se o fluxo à frente estiver bloqueado e você não puder atravessar completamente, causando bloqueio do tráfego transversal (gridlock)."
+  },
+  {
+    "id": "EP-04",
+    "file": "WhatsApp Image 2026-09-04 at 20.23.59 (4).jpeg",
+    "title": "Ultrapassagem de caminhão grande em três faixas",
+    "question": "Quando você quiser ultrapassar um caminhão grande no centro de três faixas, o melhor é ultrapassar:",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual",
+    "options": {
+      "A": "Rapidamente pela esquerda e ultrapassá-lo.",
+      "B": "Muito lentamente à esquerda e ultrapasse-o.",
+      "C": "Pela direita.",
+      "D": "Mude muito lentamente para a direita e mantenha-se na sua faixa."
+    },
+    "answer": "A",
+    "explanation": "Ao ultrapassar veículos pesados e caminhões, deve-se ultrapassar com segurança e rapidez pela esquerda, reduzindo o tempo de exposição dentro dos pontos cegos (No-Zones) do caminhão."
+  },
+  {
+    "id": "EP-05",
+    "file": "WhatsApp Image 2026-09-04 at 20.23.59.jpeg",
+    "title": "Veículo em sentido oposto com faróis altos",
+    "question": "À noite, se um veículo que se aproxima não diminuir a intensidade dos faróis altos, observe:",
+    "image": "images/i602.png",
+    "image_status": "identificada",
+    "image_desc": "Fotografia de veículo em sentido oposto com faróis altos ofuscantes",
+    "options": {
+      "A": "Em direção ao centro da via",
+      "B": "Em direção à borda direita da sua faixa",
+      "C": "Em direção à borda esquerda da sua faixa",
+      "D": "Siga em frente na sua faixa."
+    },
+    "answer": "B",
+    "explanation": "Se o outro motorista não diminuir a intensidade dos faróis, olhe para a margem direita da sua faixa para evitar ser ofuscado. Não tente compensar o outro motorista mantendo os faróis altos acesos. Se fizer isso, ambos podem ser ofuscados e isso pode causar um acidente."
+  },
+  {
+    "id": "EP-06",
+    "file": "WhatsApp Image 2026-09-04 at 20.24.00 (1).jpeg",
+    "title": "Estrada estreita íngreme e direito de preferência",
+    "question": "Se você estiver subindo uma estrada estreita e íngreme e encontrar um carro sem espaço para ultrapassar:",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual",
+    "options": {
+      "A": "Você deveria voltar pela estrada.",
+      "B": "O veículo que desce a colina deve dar marcha à ré.",
+      "C": "Qualquer um dos motoristas deve dar marcha à ré.",
+      "D": "Você deve dar marcha à ré se o outro veículo for um caminhão."
+    },
+    "answer": "B",
+    "explanation": "Em estradas estreitas de serra ou colina onde não cabem dois veículos, o veículo descendo deve dar marcha à ré, pois tem melhor controle e visibilidade para manobrar em subida do que o carro que já está subindo."
+  },
+  {
+    "id": "EP-07",
+    "file": "WhatsApp Image 2026-09-04 at 20.24.00 (2).jpeg",
+    "title": "Estacionamento em subida com meio-fio",
+    "question": "Para que lado você gira as rodas dianteiras para estacionar em uma ladeira junto ao meio-fio (subida)?",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual",
+    "options": {
+      "A": "Em direção ao meio-fio",
+      "B": "Longe do meio-fio (viradas para fora da calçada / para a esquerda)",
+      "C": "Paralelo ao meio-fio",
+      "D": "De qualquer forma está bom"
+    },
+    "answer": "B",
+    "explanation": "Ao estacionar em subida (aclive) com meio-fio, vire as rodas para fora do meio-fio (para a esquerda). Se o veículo rolar, a traseira do pneu dianteiro encostará no meio-fio, segurando o carro."
+  },
+  {
+    "id": "EP-08",
+    "file": "WhatsApp Image 2026-09-04 at 20.24.00 (4).jpeg",
+    "title": "Comportamento preventivo próximo a crianças brincando",
+    "question": "Ao passar de carro por uma área onde crianças estão brincando, você deve esperar encontrar:",
+    "image": "images/i603.png",
+    "image_status": "identificada",
+    "image_desc": "Ilustração de criança na rua próxima a veículos",
+    "options": {
+      "A": "Para saber quando é seguro atravessar",
+      "B": "Parar junto ao meio-fio antes de atravessar a rua.",
+      "C": "Para correr na sua frente sem olhar",
+      "D": "Não devem cruzar a menos que estejam acompanhados por um adulto."
+    },
+    "answer": "C",
+    "explanation": "Reduza sempre a velocidade e tenha cuidado redobrado quando houver crianças por perto. Elas podem não entender o perigo e atravessar correndo na sua frente sem olhar."
+  },
+  {
+    "id": "EP-09",
+    "file": "WhatsApp Image 2026-09-04 at 20.24.00 (5).jpeg",
+    "title": "Cor das faixas que dividem fluxos em sentidos opostos",
+    "question": "As faixas de tráfego que se movem em sentidos opostos são divididas por linhas:",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual",
+    "options": {
+      "A": "Amarelo",
+      "B": "Branco",
+      "C": "Vermelho",
+      "D": "Preto"
+    },
+    "answer": "A",
+    "explanation": "Linhas amarelas no centro da pista separam os fluxos de tráfego que circulam em sentidos opostos. Linhas brancas separam faixas no mesmo sentido de circulação."
+  },
+  {
+    "id": "EP-10",
+    "file": "WhatsApp Image 2026-09-04 at 20.24.00.jpeg",
+    "title": "Significado da placa triangular Dê a Preferência (YIELD)",
+    "question": "Este sinal significa:",
+    "image": "images/i604.png",
+    "image_status": "identificada",
+    "image_desc": "Placa regulamentar triangular vermelha e branca de 'DÊ A PREFERÊNCIA' (YIELD)",
+    "options": {
+      "A": "Diminua a velocidade se um veículo de emergência estiver se aproximando.",
+      "B": "Olhe para os dois lados ao atravessar o cruzamento.",
+      "C": "Pare sempre completamente no cruzamento.",
+      "D": "Diminua a velocidade e esteja preparado para parar, se necessário."
+    },
+    "answer": "D",
+    "explanation": "As placas de 'DÊ A PREFERÊNCIA' têm formato triangular (três lados). Ao ver essa placa, você deve reduzir a velocidade, verificar o trânsito e dar a preferência a pedestres e veículos que se aproximam transversalmente. Pare somente quando for necessário. Prossiga quando puder fazê-lo com segurança, sem interferir no fluxo normal do trânsito."
+  },
+  {
+    "id": "EP-11",
+    "file": "WhatsApp Image 2026-09-04 at 20.24.01 (1).jpeg",
+    "title": "Afirmação incorreta sobre zonas de obras e sinalização rodoviária",
+    "question": "Qual das seguintes afirmações sobre trabalhadores rodoviários não é verdadeira?",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual",
+    "options": {
+      "A": "Os equipamentos de construção rodoviária são pintados de laranja.",
+      "B": "As multas são duplicadas para algumas infrações cometidas em zonas de construção.",
+      "C": "Placas brancas indicam faixas fechadas e obras na pista à frente.",
+      "D": "Tudo o que precede"
+    },
+    "answer": "C",
+    "explanation": "Zonas de obras e construções na via são sinalizadas obrigatoriamente por placas na cor LARANJA (orange), nunca brancas. Portanto, a afirmação C é falsa, tornando-a a resposta correta para a negação da questão."
+  }
+]

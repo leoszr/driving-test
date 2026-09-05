@@ -1,0 +1,2299 @@
+[
+  {
+    "id": "DR-001",
+    "num": 46,
+    "file": "WhatsApp Image 2026-09-04 at 20.22.15 (1).jpeg",
+    "question": "Você não pode estacionar a quantos metros de um hidrante?",
+    "options": {
+      "C": "10 pés",
+      "B": "50 pés",
+      "D": "25 pés",
+      "A": "20 pés"
+    },
+    "gabarito": "C",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.22.15 (1).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "10 pés"
+  },
+  {
+    "id": "DR-002",
+    "num": 45,
+    "file": "WhatsApp Image 2026-09-04 at 20.22.15 (2).jpeg",
+    "question": "Multas serão impostas a um motorista:",
+    "options": {
+      "B": "Todas as respostas",
+      "A": "Falha em remover neve ou gelo de",
+      "C": "Quem viola a \"lei de movimento\"?",
+      "D": "Deixar o veículo em marcha lenta por"
+    },
+    "gabarito": "B",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.22.15 (2).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "Todas as respostas"
+  },
+  {
+    "id": "DR-003",
+    "num": 49,
+    "file": "WhatsApp Image 2026-09-04 at 20.22.15.jpeg",
+    "question": "Depois de dirigir por uma poça profunda, você deve:",
+    "options": {
+      "B": "Teste seus freios",
+      "A": "Aumente sua velocidade até o limite",
+      "C": "Verifique suas luzes",
+      "D": "Pare e verifique seu veículo"
+    },
+    "gabarito": "B",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.22.15.jpeg]",
+    "duplicates": [],
+    "gabarito_text": "Teste seus freios"
+  },
+  {
+    "id": "DR-004",
+    "num": 43,
+    "file": "WhatsApp Image 2026-09-04 at 20.22.16 (1).jpeg",
+    "question": "Dirigindo na cidade, você deve:",
+    "options": {
+      "D": "Dirija devagar, ceda aos pedestres e",
+      "A": "Acelere, ceda aos pedestres e olhe 2",
+      "B": "Dirija devagar e toque a buzina a",
+      "C": "Dirija devagar, fique atento a veículos em movimento lento e olhe 2 segundos à frente"
+    },
+    "gabarito": "D",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.22.16 (1).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "Dirija devagar, ceda aos pedestres e"
+  },
+  {
+    "id": "DR-005",
+    "num": 41,
+    "file": "WhatsApp Image 2026-09-04 at 20.22.16 (2).jpeg",
+    "question": "Os faróis devem ser usados:",
+    "options": {
+      "D": "Entre 1/2 hora após o pôr do sol e 1/2 hora antes do nascer do sol e quando os limpadores de pára-brisa estiverem ligados",
+      "A": "Das 20:00 às 8:00",
+      "B": "Das 18:00 às 6:00",
+      "C": "Amanhecer a escurecer"
+    },
+    "gabarito": "D",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.22.16 (2).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "Entre 1/2 hora após o pôr do sol e 1/2 hora antes do nascer do sol e quando os limpadores de pára-brisa estiverem ligados"
+  },
+  {
+    "id": "DR-006",
+    "num": 44,
+    "file": "WhatsApp Image 2026-09-04 at 20.22.16.jpeg",
+    "question": "Se um motorista atingir um BAC de 15%, O risco de causar um acidente automobilístico é:",
+    "options": {
+      "C": "25x maior",
+      "A": "Duplo",
+      "D": "Nenhuma das respostas",
+      "B": "6x maior"
+    },
+    "gabarito": "C",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.22.16.jpeg]",
+    "duplicates": [],
+    "gabarito_text": "25x maior"
+  },
+  {
+    "id": "DR-007",
+    "num": 34,
+    "file": "WhatsApp Image 2026-09-04 at 20.22.17 (1).jpeg",
+    "question": "Quando você vir ou ouvir veículos de emergência respondendo com sirenes e/ou luzes piscando, você deve:",
+    "options": {
+      "B": "Pare à direita da estrada e pare, deixando-os passar",
+      "A": "Siga-os",
+      "C": "Acelere e fique pelo menos 100 pés à",
+      "D": "Pare à direita da estrada e pare, deixando-os passar"
+    },
+    "gabarito": "B",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.22.17 (1).jpeg]",
+    "duplicates": [
+      "WhatsApp Image 2026-09-04 at 20.24.18.jpeg"
+    ],
+    "gabarito_text": "Pare à direita da estrada e pare, deixando-os passar"
+  },
+  {
+    "id": "DR-008",
+    "num": 33,
+    "file": "WhatsApp Image 2026-09-04 at 20.22.17 (2).jpeg",
+    "question": "Dirigir sob a influência de bebidas inebriantes significa:",
+    "options": {
+      "C": "Os sentidos e o julgamento de um motorista prejudicados pelo álcool",
+      "B": "Beber enquanto estiver dirigindo o",
+      "D": "O motorista mostra sinais óbvios de",
+      "A": "Dirigir mesmo que o motorista tenha bebido uma"
+    },
+    "gabarito": "C",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.22.17 (2).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "Os sentidos e o julgamento de um motorista prejudicados pelo álcool"
+  },
+  {
+    "id": "DR-009",
+    "num": 31,
+    "file": "WhatsApp Image 2026-09-04 at 20.22.17 (3).jpeg",
+    "question": "O titular de uma Licença de Liberdade Condicional com menos de 21 anos pode dirigir sem supervisão quando o seguinte requisito for atendido:",
+    "options": {
+      "A": "Depois de completar o mínimo de 6 meses de direção supervisionada e passar em um teste de estrada MVC",
+      "B": "Nenhuma das respostas",
+      "C": "solicitou uma licença especial",
+      "D": "Atingiu a idade de 16 anos"
+    },
+    "gabarito": "A",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.22.17 (3).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "Depois de completar o mínimo de 6 meses de direção supervisionada e passar em um teste de estrada MVC"
+  },
+  {
+    "id": "DR-010",
+    "num": 38,
+    "file": "WhatsApp Image 2026-09-04 at 20.22.17.jpeg",
+    "question": "Ao dirigir, o titular de uma Permissão GDL ou Carteira de Motorista Probatório não tem permissão para usar:",
+    "options": {
+      "A": "Rádio do carro",
+      "B": "Celular portátil ou mãos-livres ou qualquer outro dispositivo eletrônico",
+      "C": "Limpadores de pára-brisa",
+      "D": "Nenhuma das respostas"
+    },
+    "gabarito": "B",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.22.17.jpeg]",
+    "duplicates": [
+      "WhatsApp Image 2026-09-04 at 20.25.13 (3).jpeg"
+    ],
+    "gabarito_text": "Celular portátil ou mãos-livres ou qualquer outro dispositivo eletrônico"
+  },
+  {
+    "id": "DR-011",
+    "num": 27,
+    "file": "WhatsApp Image 2026-09-04 at 20.22.18 (1).jpeg",
+    "question": "Se você derrate, você deve:",
+    "options": {
+      "A": "Aplique seus freios",
+      "B": "Faça uma curva rápida",
+      "C": "Tire o pé do pedal do acelerador",
+      "D": "Endireite suas rodas"
+    },
+    "gabarito": "C",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.22.18 (1).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "Tire o pé do pedal do acelerador"
+  },
+  {
+    "id": "DR-012",
+    "num": 25,
+    "file": "WhatsApp Image 2026-09-04 at 20.22.18 (2).jpeg",
+    "question": "Na condução na cidade, um bom hábito é:",
+    "options": {
+      "A": "Olhe 12 segundos à frente",
+      "B": "reduza a velocidade e use sua buzina",
+      "C": "Pratique o bom senso",
+      "D": "use a regra de 2 segundos"
+    },
+    "gabarito": "A",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.22.18 (2).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "Olhe 12 segundos à frente"
+  },
+  {
+    "id": "DR-013",
+    "num": 28,
+    "file": "WhatsApp Image 2026-09-04 at 20.22.18.jpeg",
+    "question": "Um caminhão em condições adversas leva mais tempo para parar. Isso pode ser tanto quanto:",
+    "options": {
+      "A": "25% a mais",
+      "B": "70% a mais",
+      "C": "100% a mais",
+      "D": "50% a mais"
+    },
+    "gabarito": "A",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.22.18.jpeg]",
+    "duplicates": [],
+    "gabarito_text": "25% a mais"
+  },
+  {
+    "id": "DR-014",
+    "num": 18,
+    "file": "WhatsApp Image 2026-09-04 at 20.22.19 (1).jpeg",
+    "question": "Em uma estrada de duas pistas, não perto de uma zona escolar, quando um ônibus está parado e suas luzes vermelhas estão piscando:",
+    "options": {
+      "B": "Você deve parar",
+      "A": "Você pode passar o ônibus a 10 mph",
+      "C": "Você pode passar de qualquer",
+      "D": "Você pode passar o ônibus com"
+    },
+    "gabarito": "B",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.22.19 (1).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "Você deve parar"
+  },
+  {
+    "id": "DR-015",
+    "num": 15,
+    "file": "WhatsApp Image 2026-09-04 at 20.22.19 (2).jpeg",
+    "question": "Você não pode estacionar a poucos metros de um sinal de pare?",
+    "options": {
+      "B": "50 pés",
+      "A": "10 pés",
+      "D": "25 pés",
+      "C": "20 pés"
+    },
+    "gabarito": "B",
+    "image": null,
+    "image_status": "nao_identificavel",
+    "image_desc": "⚠️ Menção a placa ou sinalização de trânsito, porém o simulador original não incluiu imagem ilustrativa (print estritamente textual) [Origem: WhatsApp Image 2026-09-04 at 20.22.19 (2).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "50 pés"
+  },
+  {
+    "id": "DR-016",
+    "num": 13,
+    "file": "WhatsApp Image 2026-09-04 at 20.22.19 (3).jpeg",
+    "question": "O maior número de pessoas presas por dirigir embriagado estava bebendo",
+    "options": {
+      "B": "cerveja",
+      "C": "uísque",
+      "D": "vinho",
+      "A": "bebidas mistas"
+    },
+    "gabarito": "B",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.22.19 (3).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "cerveja"
+  },
+  {
+    "id": "DR-017",
+    "num": 17,
+    "file": "WhatsApp Image 2026-09-04 at 20.22.19.jpeg",
+    "question": "Quanto tempo mais um caminhão levará para parar durante as más condições climáticas?",
+    "options": {
+      "D": "25% a mais",
+      "A": "50% a mais",
+      "B": "70% a mais",
+      "C": "100% a mais"
+    },
+    "gabarito": "D",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.22.19.jpeg]",
+    "duplicates": [
+      "WhatsApp Image 2026-09-04 at 20.24.04.jpeg"
+    ],
+    "gabarito_text": "25% a mais"
+  },
+  {
+    "id": "DR-018",
+    "num": 11,
+    "file": "WhatsApp Image 2026-09-04 at 20.22.20 (1).jpeg",
+    "question": "Se um motorista tiver um BAC .10%, o risco de causar um acidente é:",
+    "options": {
+      "C": "Triplicado",
+      "A": "Dobrado",
+      "B": "Não é diferente",
+      "D": "Não é diferente"
+    },
+    "gabarito": "C",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.22.20 (1).jpeg]",
+    "duplicates": [
+      "WhatsApp Image 2026-09-04 at 20.25.17.jpeg"
+    ],
+    "gabarito_text": "Triplicado"
+  },
+  {
+    "id": "DR-019",
+    "num": 12,
+    "file": "WhatsApp Image 2026-09-04 at 20.22.20.jpeg",
+    "question": "Além de uma possível multa, ao operar um veículo em propriedade pública ou privada para evitar um sinal de trânsito ou placa, você receberá:",
+    "options": {
+      "D": "Violação de movimento de 2 pontos",
+      "A": "Violação de movimento de 4 pontos",
+      "B": "Tempo De Prisão",
+      "C": "Violação de movimento de 6 pontos"
+    },
+    "gabarito": "D",
+    "image": null,
+    "image_status": "nao_identificavel",
+    "image_desc": "⚠️ Menção a placa ou sinalização de trânsito, porém o simulador original não incluiu imagem ilustrativa (print estritamente textual) [Origem: WhatsApp Image 2026-09-04 at 20.22.20.jpeg]",
+    "duplicates": [],
+    "gabarito_text": "Violação de movimento de 2 pontos"
+  },
+  {
+    "id": "DR-020",
+    "num": 6,
+    "file": "WhatsApp Image 2026-09-04 at 20.22.21.jpeg",
+    "question": "A mão e o braço do motorista apontando para fora indicam qual sinal direcional?",
+    "options": {
+      "A": "Move à esquerda",
+      "B": "Pare",
+      "D": "Inversão de marcha",
+      "C": "Cire à direita"
+    },
+    "gabarito": "A",
+    "image": null,
+    "image_status": "nao_identificavel",
+    "image_desc": "⚠️ Menção a placa ou sinalização de trânsito, porém o simulador original não incluiu imagem ilustrativa (print estritamente textual) [Origem: WhatsApp Image 2026-09-04 at 20.22.21.jpeg]",
+    "duplicates": [],
+    "gabarito_text": "Move à esquerda"
+  },
+  {
+    "id": "DR-021",
+    "num": 47,
+    "file": "WhatsApp Image 2026-09-04 at 20.24.01 (2).jpeg",
+    "question": "Uma lata de cerveja de doze onças tem tanto álcool quanto",
+    "options": {
+      "D": "1 1/2 onças de uísque",
+      "A": "2 martinis",
+      "B": "um litro de conhaque",
+      "C": "uma garrafa de rum"
+    },
+    "gabarito": "D",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.24.01 (2).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "1 1/2 onças de uísque"
+  },
+  {
+    "id": "DR-022",
+    "num": 45,
+    "file": "WhatsApp Image 2026-09-04 at 20.24.01 (3).jpeg",
+    "question": "O que é um infrator Habitual?",
+    "options": {
+      "A": "qualquer motorista cuja licença tenha sido suspensa três vezes em três anos",
+      "B": "qualquer motorista cuja licença",
+      "C": "qualquer motorista cuja licença",
+      "D": "qualquer motorista cuja licença"
+    },
+    "gabarito": "A",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.24.01 (3).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "qualquer motorista cuja licença tenha sido suspensa três vezes em três anos"
+  },
+  {
+    "id": "DR-023",
+    "num": 49,
+    "file": "WhatsApp Image 2026-09-04 at 20.24.01.jpeg",
+    "question": "Estacionando morro acima em uma rua com meio-fio, suas rodas devem ser:",
+    "options": {
+      "B": "Se afastou do meio-fio",
+      "A": "Virou para a direita",
+      "C": "Virou em frente",
+      "D": "Virado para o meio-fio"
+    },
+    "gabarito": "B",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.24.01.jpeg]",
+    "duplicates": [],
+    "gabarito_text": "Se afastou do meio-fio"
+  },
+  {
+    "id": "DR-024",
+    "num": 36,
+    "file": "WhatsApp Image 2026-09-04 at 20.24.02 (1).jpeg",
+    "question": "É uma boa prática manter uma distância segura de:",
+    "options": {
+      "D": "Dar-lhe tempo para reagir a emergências",
+      "A": "Diminua seu tempo de reação",
+      "C": "Dar a você uma visão clara da",
+      "B": "Nenhuma das respostas"
+    },
+    "gabarito": "D",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.24.02 (1).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "Dar-lhe tempo para reagir a emergências"
+  },
+  {
+    "id": "DR-025",
+    "num": 34,
+    "file": "WhatsApp Image 2026-09-04 at 20.24.02 (2).jpeg",
+    "question": "Todo veículo registrado em NJ deve ser segurado para:",
+    "options": {
+      "B": "Responsabilidade",
+      "C": "Danos causados por incêndio",
+      "D": "Roubo",
+      "A": "Colisão"
+    },
+    "gabarito": "B",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.24.02 (2).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "Responsabilidade"
+  },
+  {
+    "id": "DR-026",
+    "num": 33,
+    "file": "WhatsApp Image 2026-09-04 at 20.24.02 (3).jpeg",
+    "question": "Você não pode estacionar a poucos metros de um sinal de parada?",
+    "options": {
+      "D": "50 pés",
+      "B": "10 pés",
+      "C": "20 pés",
+      "A": "25 pés"
+    },
+    "gabarito": "D",
+    "image": null,
+    "image_status": "nao_identificavel",
+    "image_desc": "⚠️ Menção a placa ou sinalização de trânsito, porém o simulador original não incluiu imagem ilustrativa (print estritamente textual) [Origem: WhatsApp Image 2026-09-04 at 20.24.02 (3).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "50 pés"
+  },
+  {
+    "id": "DR-027",
+    "num": 25,
+    "file": "WhatsApp Image 2026-09-04 at 20.24.02 (4).jpeg",
+    "question": "Se o BAC de um motorista estiver ligeiramente acima de 0,05%, o risco de causar um acidente é:",
+    "options": {
+      "D": "Dobrado",
+      "A": "Não é diferente",
+      "B": "Seis vezes maior",
+      "C": "Triplicado"
+    },
+    "gabarito": "D",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.24.02 (4).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "Dobrado"
+  },
+  {
+    "id": "DR-028",
+    "num": 44,
+    "file": "WhatsApp Image 2026-09-04 at 20.24.02.jpeg",
+    "question": "Um caminhão em condições adversas leva mais tempo para parar. Isso pode ser tanto quanto:",
+    "options": {
+      "B": "25% a mais",
+      "A": "50% a mais",
+      "C": "70% a mais",
+      "D": "100% mais"
+    },
+    "gabarito": "B",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.24.02.jpeg]",
+    "duplicates": [],
+    "gabarito_text": "25% a mais"
+  },
+  {
+    "id": "DR-029",
+    "num": 20,
+    "file": "WhatsApp Image 2026-09-04 at 20.24.03 (1).jpeg",
+    "question": "Se um motorista tiver um BAC 10%, o risco de causar um acidente é:",
+    "options": {
+      "A": "6x maior",
+      "C": "Triplicado",
+      "D": "Não é diferente",
+      "B": "Triplicado"
+    },
+    "gabarito": "A",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.24.03 (1).jpeg]",
+    "duplicates": [
+      "WhatsApp Image 2026-09-04 at 20.25.20 (1).jpeg"
+    ],
+    "gabarito_text": "6x maior"
+  },
+  {
+    "id": "DR-030",
+    "num": 19,
+    "file": "WhatsApp Image 2026-09-04 at 20.24.03 (2).jpeg",
+    "question": "Na condução urbana, um bom hábito é:",
+    "options": {
+      "C": "Olhe 12 segundos à frente",
+      "A": "Pratique o bom senso",
+      "B": "use a regra dos 2 segundos",
+      "D": "reduza a velocidade e use sua buzina"
+    },
+    "gabarito": "C",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.24.03 (2).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "Olhe 12 segundos à frente"
+  },
+  {
+    "id": "DR-031",
+    "num": 21,
+    "file": "WhatsApp Image 2026-09-04 at 20.24.03.jpeg",
+    "question": "Para manter uma distância de seguimento adequada ao dirigir, você deve ficar pelo menos:",
+    "options": {
+      "A": "1 segundo atrás do veículo à sua",
+      "B": "1/2 segundo atrás do veículo à sua",
+      "C": "3/4 segundo atrás do veículo à sua"
+    },
+    "gabarito": null,
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.24.03.jpeg]",
+    "duplicates": []
+  },
+  {
+    "id": "DR-032",
+    "num": 11,
+    "file": "WhatsApp Image 2026-09-04 at 20.24.04 (1).jpeg",
+    "question": "O maior número de pessoas presas por dirigir embriagado estava bebendo",
+    "options": {
+      "D": "cerveja",
+      "B": "uísque",
+      "C": "bebidas mistas",
+      "A": "vinho"
+    },
+    "gabarito": "D",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.24.04 (1).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "cerveja"
+  },
+  {
+    "id": "DR-033",
+    "num": 6,
+    "file": "WhatsApp Image 2026-09-04 at 20.24.04 (2).jpeg",
+    "question": "O veículo usado para o teste de estrada pode não ter:",
+    "options": {
+      "A": "Quaisquer obstruções ou consoles entre o motorista e o examinador",
+      "B": "Um registro fora do estado",
+      "D": "Um adesivo de inspeção válido",
+      "C": "Nenhuma das opções acima"
+    },
+    "gabarito": "A",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.24.04 (2).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "Quaisquer obstruções ou consoles entre o motorista e o examinador"
+  },
+  {
+    "id": "DR-034",
+    "num": 9,
+    "file": "WhatsApp Image 2026-09-04 at 20.24.04 (3).jpeg",
+    "question": "Em uma estrada coberta de neve, você deve manter a seguinte distância de pelo menos:",
+    "options": {
+      "B": "6 segundos ou mais",
+      "A": "3 segundos à frente",
+      "D": "2 segundos à frente",
+      "C": "12 segundos à frente"
+    },
+    "gabarito": "B",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.24.04 (3).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "6 segundos ou mais"
+  },
+  {
+    "id": "DR-035",
+    "num": 3,
+    "file": "WhatsApp Image 2026-09-04 at 20.24.05.jpeg",
+    "question": "Ao estacionar em declive na rua com um meio-fio, a roda do carro deve ser:",
+    "options": {
+      "A": "Virado para o meio-fio",
+      "B": "Se afastou do meio-fio",
+      "C": "Se afastou do meio-fio",
+      "D": "Virou para a esquerda"
+    },
+    "gabarito": "A",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.24.05.jpeg]",
+    "duplicates": [
+      "WhatsApp Image 2026-09-04 at 20.25.21 (4).jpeg"
+    ],
+    "gabarito_text": "Virado para o meio-fio"
+  },
+  {
+    "id": "DR-036",
+    "num": 1,
+    "file": "WhatsApp Image 2026-09-04 at 20.24.06.jpeg",
+    "question": "O limite de velocidade em uma zona escolar, a menos que outro seja postado, é:",
+    "options": {
+      "A": "10 mph",
+      "C": "35 mph",
+      "B": "25 mph",
+      "D": "15 mph"
+    },
+    "gabarito": null,
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.24.06.jpeg]",
+    "duplicates": []
+  },
+  {
+    "id": "DR-037",
+    "num": 48,
+    "file": "WhatsApp Image 2026-09-04 at 20.24.07 (1).jpeg",
+    "question": "Depois de dirigir por uma poça profunda, você deve:",
+    "options": {
+      "A": "Teste seus freios",
+      "C": "Pare e verifique seu veículo",
+      "D": "Verifique suas luzes",
+      "B": "Aumente sua velocidade até o limite publicado"
+    },
+    "gabarito": "A",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.24.07 (1).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "Teste seus freios"
+  },
+  {
+    "id": "DR-038",
+    "num": 46,
+    "file": "WhatsApp Image 2026-09-04 at 20.24.07 (2).jpeg",
+    "question": "Em uma estrada coberta de neve, você deve manter a seguinte distância de pelo menos:",
+    "options": {
+      "B": "6 segundos ou mais",
+      "A": "2 segundos à frente",
+      "D": "3 segundos à frente",
+      "C": "12 segundos à frente"
+    },
+    "gabarito": "B",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.24.07 (2).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "6 segundos ou mais"
+  },
+  {
+    "id": "DR-039",
+    "num": 47,
+    "file": "WhatsApp Image 2026-09-04 at 20.24.07 (3).jpeg",
+    "question": "Se tiver menos de 21 anos, a lei de NJ afirma que você pode estar sob a influência se o BAC for:",
+    "options": {
+      "B": "Todas as respostas",
+      "A": "Mais de 0,01%, mas menos de 0,05%",
+      "C": "Mais de 0,01%, mas menos de .15%",
+      "D": "Mais de 0,05%, mas menos de 0,10%"
+    },
+    "gabarito": "B",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.24.07 (3).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "Todas as respostas"
+  },
+  {
+    "id": "DR-040",
+    "num": 49,
+    "file": "WhatsApp Image 2026-09-04 at 20.24.07.jpeg",
+    "question": "Um copo de 5 onças de vinho (12%) contém a mesma quantidade de álcool que:",
+    "options": {
+      "C": "Uma garrafa de cerveja de 12 onças",
+      "A": "Uma garrafa de uísque de 12 onças",
+      "B": "6 onças de vodka",
+      "D": "Um pacote de 6 cervejas"
+    },
+    "gabarito": "C",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.24.07.jpeg]",
+    "duplicates": [],
+    "gabarito_text": "Uma garrafa de cerveja de 12 onças"
+  },
+  {
+    "id": "DR-041",
+    "num": 42,
+    "file": "WhatsApp Image 2026-09-04 at 20.24.08 (1).jpeg",
+    "question": "Uma carteira de motorista perdida ou roubada, permissão ou identificação de não motorista, deve ser relatada a:",
+    "options": {
+      "C": "A polícia o)",
+      "A": "O Centro de Testes de Motorista",
+      "B": "Sua companhia de seguros",
+      "D": "A agência MVC"
+    },
+    "gabarito": "C",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.24.08 (1).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "A polícia o)"
+  },
+  {
+    "id": "DR-042",
+    "num": 45,
+    "file": "WhatsApp Image 2026-09-04 at 20.24.08 (2).jpeg",
+    "question": "Quando o seu privilégio de dirigir for restaurado para suspensão de pontos, você estará em um período probatório para:",
+    "options": {
+      "C": "tano",
+      "B": "6 meses",
+      "D": "9 meses",
+      "A": "2 anos"
+    },
+    "gabarito": "C",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.24.08 (2).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "tano"
+  },
+  {
+    "id": "DR-043",
+    "num": 39,
+    "file": "WhatsApp Image 2026-09-04 at 20.24.08 (3).jpeg",
+    "question": "Uma faixa de desaceleração é:",
+    "options": {
+      "D": "Uma pista extra em uma saída da rodovia",
+      "A": "A faixa de passagem",
+      "B": "Apenas para motoristas rápidos",
+      "C": "Apenas para motoristas lentos"
+    },
+    "gabarito": "D",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.24.08 (3).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "Uma pista extra em uma saída da rodovia"
+  },
+  {
+    "id": "DR-044",
+    "num": 41,
+    "file": "WhatsApp Image 2026-09-04 at 20.24.08.jpeg",
+    "question": "Uma faixa de aceleração é:",
+    "options": {
+      "B": "Uma faixa extra na entrada da rodovia",
+      "A": "A faixa de passagem",
+      "C": "Uma faixa extra na saída da rodovia",
+      "D": "A faixa da esquerda em uma rodovia de duas pistas"
+    },
+    "gabarito": "B",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.24.08.jpeg]",
+    "duplicates": [],
+    "gabarito_text": "Uma faixa extra na entrada da rodovia"
+  },
+  {
+    "id": "DR-045",
+    "num": 37,
+    "file": "WhatsApp Image 2026-09-04 at 20.24.09 (1).jpeg",
+    "question": "Você não pode estacionar a quantos metros de uma faixa de pedestres em um cruzamento?",
+    "options": {
+      "A": "25 pés",
+      "B": "10 pés",
+      "D": "20 pés",
+      "C": "50 pés"
+    },
+    "gabarito": "A",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.24.09 (1).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "25 pés"
+  },
+  {
+    "id": "DR-046",
+    "num": 36,
+    "file": "WhatsApp Image 2026-09-04 at 20.24.09 (2).jpeg",
+    "question": "Solicitar uma carteira de motorista ilegalmente pode resultar em:",
+    "options": {
+      "B": "Suspensão licenciada, multa de US$ 200 a US$ 500 efou prisão",
+      "C": "Uma multa de US$25 a US$100",
+      "D": "Uma trilha judicial",
+      "A": "Prisão de 6 meses"
+    },
+    "gabarito": "B",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.24.09 (2).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "Suspensão licenciada, multa de US$ 200 a US$ 500 efou prisão"
+  },
+  {
+    "id": "DR-047",
+    "num": 35,
+    "file": "WhatsApp Image 2026-09-04 at 20.24.09 (3).jpeg",
+    "question": "A falta de parada para pedestres em uma faixa de pedestres acarreta uma multa de até:",
+    "options": {
+      "A": "US$ 500, até 25 dias de prisão, 6 meses de suspensão, 2 pontos e serviço comunitário",
+      "B": "US$ 100, até 20 dias de prisão,",
+      "C": "US$ 50, até 30 dias de prisão, 3",
+      "D": "US$ 1000, até 10 dias de prisão, 4"
+    },
+    "gabarito": "A",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.24.09 (3).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "US$ 500, até 25 dias de prisão, 6 meses de suspensão, 2 pontos e serviço comunitário"
+  },
+  {
+    "id": "DR-048",
+    "num": 38,
+    "file": "WhatsApp Image 2026-09-04 at 20.24.09.jpeg",
+    "question": "Se um motorista estiver passando por você, você deve:",
+    "options": {
+      "A": "Pisque as luzes e a buzine para",
+      "C": "Acelere para que elefela não",
+      "D": "Diminua a velocidade para facilitar a",
+      "B": "Continue na mesma velocidade e sinalize o tráfego que se aproxima"
+    },
+    "gabarito": null,
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.24.09.jpeg]",
+    "duplicates": []
+  },
+  {
+    "id": "DR-049",
+    "num": 31,
+    "file": "WhatsApp Image 2026-09-04 at 20.24.10 (1).jpeg",
+    "question": "O titular de uma Permissão de Aprendiz GDL validada não pode dirigir entre as horas de:",
+    "options": {
+      "D": "23:01 e 5:00",
+      "A": "sem restrições",
+      "B": "12h01 e 5h00",
+      "C": "23:01e 6:00"
+    },
+    "gabarito": "D",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.24.10 (1).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "23:01 e 5:00"
+  },
+  {
+    "id": "DR-050",
+    "num": 27,
+    "file": "WhatsApp Image 2026-09-04 at 20.24.10 (2).jpeg",
+    "question": "Se o BAC de um motorista estiver ligeiramente acima de 0,05%, o risco de causar um acidente é:",
+    "options": {
+      "B": "Dobrado",
+      "A": "Seis vezes maior",
+      "C": "Triplicado",
+      "D": "Não é diferente"
+    },
+    "gabarito": "B",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.24.10 (2).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "Dobrado"
+  },
+  {
+    "id": "DR-051",
+    "num": 30,
+    "file": "WhatsApp Image 2026-09-04 at 20.24.10 (3).jpeg",
+    "question": "Ter ou mostrar uma carteira de motorista falsa pode resultar em:",
+    "options": {
+      "C": "Uma suspensão, multa e até 6 meses de prisão",
+      "A": "Nenhuma das respostas",
+      "B": "Uma multa e comparecimento no",
+      "D": "Apenas suspensão da licença"
+    },
+    "gabarito": "C",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.24.10 (3).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "Uma suspensão, multa e até 6 meses de prisão"
+  },
+  {
+    "id": "DR-052",
+    "num": 33,
+    "file": "WhatsApp Image 2026-09-04 at 20.24.10.jpeg",
+    "question": "Uma garrafa de cerveja de 12 onças tem tanto álcool quanto:",
+    "options": {
+      "A": "Um copo de vinho de 5 onças",
+      "B": "Um litro de conhaque",
+      "C": "2 martinis",
+      "D": "Uma garrafa de uísque"
+    },
+    "gabarito": "A",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.24.10.jpeg]",
+    "duplicates": [],
+    "gabarito_text": "Um copo de vinho de 5 onças"
+  },
+  {
+    "id": "DR-053",
+    "num": 21,
+    "file": "WhatsApp Image 2026-09-04 at 20.24.11 (1).jpeg",
+    "question": "Ao dirigir na cidade, um bom hábito é:",
+    "options": {
+      "B": "Olhe 12 segundos à frente",
+      "A": "Pratique o bom senso",
+      "D": "reduza a velocidade e use sua buzina",
+      "C": "use a regra de 2 segundos"
+    },
+    "gabarito": "B",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.24.11 (1).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "Olhe 12 segundos à frente"
+  },
+  {
+    "id": "DR-054",
+    "num": 23,
+    "file": "WhatsApp Image 2026-09-04 at 20.24.11 (2).jpeg",
+    "question": "Para evitar a hidroplanagem, você deve:",
+    "options": {
+      "B": "Diminua a velocidade e dirija no ponto mais alto da estrada",
+      "A": "Aumente sua velocidade",
+      "D": "Costa e lento até uma parada",
+      "C": "Mantenha 35 mph ou mais"
+    },
+    "gabarito": "B",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.24.11 (2).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "Diminua a velocidade e dirija no ponto mais alto da estrada"
+  },
+  {
+    "id": "DR-055",
+    "num": 17,
+    "file": "WhatsApp Image 2026-09-04 at 20.24.11 (3).jpeg",
+    "question": "Você não pode estacionar a quantos metros de um sinal de parada?",
+    "options": {
+      "B": "50 pés",
+      "A": "25 pés",
+      "C": "10 pés",
+      "D": "20 pés"
+    },
+    "gabarito": "B",
+    "image": null,
+    "image_status": "nao_identificavel",
+    "image_desc": "⚠️ Menção a placa ou sinalização de trânsito, porém o simulador original não incluiu imagem ilustrativa (print estritamente textual) [Origem: WhatsApp Image 2026-09-04 at 20.24.11 (3).jpeg]",
+    "duplicates": [
+      "WhatsApp Image 2026-09-04 at 20.24.18 (3).jpeg",
+      "WhatsApp Image 2026-09-04 at 20.25.22.jpeg"
+    ],
+    "gabarito_text": "50 pés"
+  },
+  {
+    "id": "DR-056",
+    "num": 20,
+    "file": "WhatsApp Image 2026-09-04 at 20.24.11.jpeg",
+    "question": "Lei de Consentimento Implícito de NJ significa que, simplesmente usando as estradas de NJ, o motorista concordou com um:",
+    "options": {
+      "C": "Teste de respiração",
+      "B": "Programa de Motorista Probatório",
+      "D": "Programa de Melhoria de Motorista",
+      "A": "Curso de Condução Defensiva"
+    },
+    "gabarito": "C",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.24.11.jpeg]",
+    "duplicates": [],
+    "gabarito_text": "Teste de respiração"
+  },
+  {
+    "id": "DR-057",
+    "num": 5,
+    "file": "WhatsApp Image 2026-09-04 at 20.24.12 (1).jpeg",
+    "question": "Se seus freios falharem de repente, o que você deve tentar fazer é:",
+    "options": {
+      "B": "Mude para uma marcha mais baixa e bombeie os freios várias vezes",
+      "A": "Desligue a ignição",
+      "C": "Toque a buzina e a costa até parar",
+      "D": "Dirija no acostamento para reduzir a"
+    },
+    "gabarito": "B",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.24.12 (1).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "Mude para uma marcha mais baixa e bombeie os freios várias vezes"
+  },
+  {
+    "id": "DR-058",
+    "num": 13,
+    "file": "WhatsApp Image 2026-09-04 at 20.24.12.jpeg",
+    "question": "Violações cometidas em estão sujeitas a multa dupla.",
+    "options": {
+      "C": "Uma zona de construção",
+      "A": "Um distrito comercial",
+      "D": "Uma área residencial",
+      "B": "Uma zona escolar"
+    },
+    "gabarito": "C",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.24.12.jpeg]",
+    "duplicates": [],
+    "gabarito_text": "Uma zona de construção"
+  },
+  {
+    "id": "DR-059",
+    "num": 18,
+    "file": "WhatsApp Image 2026-09-04 at 20.24.13 (1).jpeg",
+    "question": "Se o motorista de um caminhão grande não puder ver o veículo de outro motorista no retrovisor ou nos espelhos laterais, onde está o seu veículo em relação ao caminhão grande?",
+    "options": {
+      "A": "Na frente",
+      "B": "Tanto A quanto B",
+      "C": "Ponto cego",
+      "D": "Sem zona"
+    },
+    "gabarito": "B",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.24.13 (1).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "Tanto A quanto B"
+  },
+  {
+    "id": "DR-060",
+    "num": null,
+    "file": "WhatsApp Image 2026-09-04 at 20.24.13 (2).jpeg",
+    "question": "Se suas rodas flutuarem em um acostamento de terra da estrada e você quiser retornar à estrada pavimentada, você deve:",
+    "options": {
+      "A": "Dirija ao longo do acostamento até chegar a uma faixa de aceleração",
+      "B": "Mova-se lentamente ao longo do acostamento e acene o tráfego ao seu redor",
+      "C": "Dirija ao longo do acostamento até que você esteja indo rápido como o tráfego",
+      "D": "Segure o volante com força, diminua a velocidade e vire levemente o volante em direção à estrada"
+    },
+    "gabarito": "D",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.24.13 (2).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "Segure o volante com força, diminua a velocidade e vire levemente o volante em direção à estrada"
+  },
+  {
+    "id": "DR-061",
+    "num": 17,
+    "file": "WhatsApp Image 2026-09-04 at 20.24.13.jpeg",
+    "question": "Quanta distância de frenagem um veículo levará para parar em uma superfície seca, ao dirigir a uma velocidade de 60 mph?",
+    "options": {
+      "A": "300 pés",
+      "B": "500 pés",
+      "C": "55 pés",
+      "D": "20 pés"
+    },
+    "gabarito": "A",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.24.13.jpeg]",
+    "duplicates": [],
+    "gabarito_text": "300 pés"
+  },
+  {
+    "id": "DR-062",
+    "num": 13,
+    "file": "WhatsApp Image 2026-09-04 at 20.24.14 (1).jpeg",
+    "question": "Em Nova Jersey, você deve ter pelo menos __ anos de idade para registrar um veículo motorizado.",
+    "options": {
+      "A": "21",
+      "B": "17",
+      "C": "15",
+      "D": "16"
+    },
+    "gabarito": "B",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.24.14 (1).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "17"
+  },
+  {
+    "id": "DR-063",
+    "num": 12,
+    "file": "WhatsApp Image 2026-09-04 at 20.24.14 (2).jpeg",
+    "question": "Se você derraparar, você deve:",
+    "options": {
+      "D": "Tire o pé do pedal do acelerador",
+      "A": "Faça uma curva rápida",
+      "B": "Aplique seus freios",
+      "C": "Endireite suas rodas"
+    },
+    "gabarito": "D",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.24.14 (2).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "Tire o pé do pedal do acelerador"
+  },
+  {
+    "id": "DR-064",
+    "num": 11,
+    "file": "WhatsApp Image 2026-09-04 at 20.24.14 (3).jpeg",
+    "question": "Além de uma possível multa ao operar um veículo motorizado em propriedade pública ou privada para evitar um sinal de trânsito ou sinal, um motorista receberá:",
+    "options": {
+      "C": "Violação em movimento de 2pt",
+      "A": "Violação em movimento de 4pt",
+      "B": "Violação de movimento de 5pt",
+      "D": "Violação em movimento de 6pts"
+    },
+    "gabarito": "C",
+    "image": null,
+    "image_status": "nao_identificavel",
+    "image_desc": "⚠️ Menção a placa ou sinalização de trânsito, porém o simulador original não incluiu imagem ilustrativa (print estritamente textual) [Origem: WhatsApp Image 2026-09-04 at 20.24.14 (3).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "Violação em movimento de 2pt"
+  },
+  {
+    "id": "DR-065",
+    "num": 10,
+    "file": "WhatsApp Image 2026-09-04 at 20.24.14 (4).jpeg",
+    "question": "A forma de um sinal de rendimento é:",
+    "options": {
+      "B": "Triângulo",
+      "A": "Octógono",
+      "D": "Círculo",
+      "C": "Diamante"
+    },
+    "gabarito": "B",
+    "image": null,
+    "image_status": "nao_identificavel",
+    "image_desc": "⚠️ Menção a placa ou sinalização de trânsito, porém o simulador original não incluiu imagem ilustrativa (print estritamente textual) [Origem: WhatsApp Image 2026-09-04 at 20.24.14 (4).jpeg]",
+    "duplicates": [
+      "WhatsApp Image 2026-09-04 at 20.24.15.jpeg"
+    ],
+    "gabarito_text": "Triângulo"
+  },
+  {
+    "id": "DR-066",
+    "num": 14,
+    "file": "WhatsApp Image 2026-09-04 at 20.24.14.jpeg",
+    "question": "Para dirigir em marcha à ré, a cabeça e o corpo do motorista devem ser:",
+    "options": {
+      "A": "Vire para a direita e tenha alguém do",
+      "B": "Virou-se olhando pela janela lateral,",
+      "C": "Diretamente olhando apenas para o"
+    },
+    "gabarito": null,
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.24.14.jpeg]",
+    "duplicates": []
+  },
+  {
+    "id": "DR-067",
+    "num": 9,
+    "file": "WhatsApp Image 2026-09-04 at 20.24.15 (1).jpeg",
+    "question": "A lei de Nova Jersey permite que até três pontos sejam subtraídos do total de pontos de um motorista para cada ano em que um motorista passa sem uma violação ou suspensão",
+    "options": {
+      "C": "embora o total de pontos nunca seja",
+      "A": "por dois anos a partir da data da",
+      "B": "por 18 meses a partir da data da",
+      "D": "por seis meses a partir da data da"
+    },
+    "gabarito": "C",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.24.15 (1).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "embora o total de pontos nunca seja"
+  },
+  {
+    "id": "DR-068",
+    "num": 5,
+    "file": "WhatsApp Image 2026-09-04 at 20.24.15 (2).jpeg",
+    "question": "Qual sinal de cor (cores) é usado para indicar o compartilhamento da estrada com pedestres e ciclistas",
+    "options": {
+      "B": "Amarelo-verde",
+      "C": "Laranja",
+      "D": "Laranja-vermeldo",
+      "A": "Amarelo-laranja"
+    },
+    "gabarito": "B",
+    "image": null,
+    "image_status": "nao_identificavel",
+    "image_desc": "⚠️ Menção a placa ou sinalização de trânsito, porém o simulador original não incluiu imagem ilustrativa (print estritamente textual) [Origem: WhatsApp Image 2026-09-04 at 20.24.15 (2).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "Amarelo-verde"
+  },
+  {
+    "id": "DR-069",
+    "num": 2,
+    "file": "WhatsApp Image 2026-09-04 at 20.24.16 (1).jpeg",
+    "question": "Uma garrafa de cerveja de 12 onças contém a mesma quantidade de álcool que:",
+    "options": {
+      "A": "Uma garrafa de uísque",
+      "B": "2 martinis",
+      "C": "Um litro de conhaque",
+      "D": "Um copo de 5 onças de vinho"
+    },
+    "gabarito": "D",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.24.16 (1).jpeg]",
+    "duplicates": [
+      "WhatsApp Image 2026-09-04 at 20.24.18 (1).jpeg"
+    ],
+    "gabarito_text": "Um copo de 5 onças de vinho"
+  },
+  {
+    "id": "DR-070",
+    "num": 28,
+    "file": "WhatsApp Image 2026-09-04 at 20.24.16 (2).jpeg",
+    "question": "Durante o período probatório de dois anos após receber uma permissão especial de aprendiz ou uma permissão de exame, um motorista deve se inscrever em um Programa de Motorista Probatório quando:",
+    "options": {
+      "D": "Condenado por 2 ou mais violações",
+      "A": "Condenado por 2 ou mais violações",
+      "B": "Condenado por 4 ou mais violações",
+      "C": "Nenhuma das respostas"
+    },
+    "gabarito": "D",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.24.16 (2).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "Condenado por 2 ou mais violações"
+  },
+  {
+    "id": "DR-071",
+    "num": 26,
+    "file": "WhatsApp Image 2026-09-04 at 20.24.16 (3).jpeg",
+    "question": "Quando um motorista pode estacionar em frente a uma entrada pública ou privada?",
+    "options": {
+      "B": "quando instruído a fazê-lo por um policial",
+      "A": "a qualquer momento",
+      "C": "com a permissão dos proprietários",
+      "D": "nunca"
+    },
+    "gabarito": "B",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.24.16 (3).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "quando instruído a fazê-lo por um policial"
+  },
+  {
+    "id": "DR-072",
+    "num": 27,
+    "file": "WhatsApp Image 2026-09-04 at 20.24.16 (4).jpeg",
+    "question": "Ao dirigir à noite, certifique-se de que você pode parar:",
+    "options": {
+      "B": "Dentro da distância você pode ver à frente o)",
+      "C": "Dentro de 20 pés o tempo todo",
+      "D": "Dentro de 20 pés a 40 mph",
+      "A": "Dentro de 20 pés a 30 mph"
+    },
+    "gabarito": "B",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.24.16 (4).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "Dentro da distância você pode ver à frente o)"
+  },
+  {
+    "id": "DR-073",
+    "num": 3,
+    "file": "WhatsApp Image 2026-09-04 at 20.24.16.jpeg",
+    "question": "Sob as restrições da GDL, o titular de uma Carteira de Habilitação Probatória com menos de 21 anos está limitado às seguintes restrições ao passageiro:",
+    "options": {
+      "A": "Dependentes e uma pessoa adicional, a menos que acompanhadas por um dos pais ou responsável",
+      "B": "Dependentes e apenas pais ou",
+      "C": "Qualquer passageiro de sua",
+      "D": "Nenhuma restrição se aplica"
+    },
+    "gabarito": "A",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.24.16.jpeg]",
+    "duplicates": [],
+    "gabarito_text": "Dependentes e uma pessoa adicional, a menos que acompanhadas por um dos pais ou responsável"
+  },
+  {
+    "id": "DR-074",
+    "num": 23,
+    "file": "WhatsApp Image 2026-09-04 at 20.24.17 (1).jpeg",
+    "question": "O que é um Defensor Habitual?",
+    "options": {
+      "A": "qualquer motorista cuja licença tenha sido suspensa uma vez em três anos",
+      "B": "qualquer motorista cuja licença tenha sido suspensa duas vezes em dois anos",
+      "C": "qualquer motorista cuja licença tenha sido suspensa três vezes em três anos",
+      "D": "qualquer motorista cuja licença tenha sido suspensa uma vez"
+    },
+    "gabarito": "C",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.24.17 (1).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "qualquer motorista cuja licença tenha sido suspensa três vezes em três anos"
+  },
+  {
+    "id": "DR-075",
+    "num": 21,
+    "file": "WhatsApp Image 2026-09-04 at 20.24.17 (2).jpeg",
+    "question": "Se suas rodas se desviarem para um acostamento de terra da estrada e você quiser retornar à estrada pavimentada, você deve:",
+    "options": {
+      "B": "Segure o volante com força, diminua a velocidade e vire levemente o volante em direção à estrada",
+      "A": "Mova-se lentamente ao longo do",
+      "C": "Dirija ao longo do acostamento até",
+      "D": "Dirija ao longo do acostamento até"
+    },
+    "gabarito": "B",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.24.17 (2).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "Segure o volante com força, diminua a velocidade e vire levemente o volante em direção à estrada"
+  },
+  {
+    "id": "DR-076",
+    "num": 19,
+    "file": "WhatsApp Image 2026-09-04 at 20.24.17 (3).jpeg",
+    "question": "Se você derrate, você deve:",
+    "options": {
+      "B": "Tire o pé do pedal do acelerador",
+      "C": "Faça uma curva rápida",
+      "D": "Aplique seus freios",
+      "A": "Endireite suas rodas"
+    },
+    "gabarito": "B",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.24.17 (3).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "Tire o pé do pedal do acelerador"
+  },
+  {
+    "id": "DR-077",
+    "num": 25,
+    "file": "WhatsApp Image 2026-09-04 at 20.24.17.jpeg",
+    "question": "Qual das seguintes condenações resultará em uma sobretaxa de seguro:",
+    "options": {
+      "B": "Todas as respostas",
+      "C": "Dirigir sem licença ou suspenso",
+      "D": "Dirigindo um veículo sem sero",
+      "A": "DUI"
+    },
+    "gabarito": "B",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.24.17.jpeg]",
+    "duplicates": [],
+    "gabarito_text": "Todas as respostas"
+  },
+  {
+    "id": "DR-078",
+    "num": 12,
+    "file": "WhatsApp Image 2026-09-04 at 20.24.18 (2).jpeg",
+    "question": "Além de uma possível multa ao operar um veículo a motor em propriedade pública ou privada para evitar um sinal de trânsito ou placa, um motorista receberá:",
+    "options": {
+      "B": "Violação de movimento de 2 pts",
+      "C": "Violação de movimento de 5pt",
+      "D": "Violação de movimento de 4pt",
+      "A": "Violação de movimento de 6pt"
+    },
+    "gabarito": "B",
+    "image": null,
+    "image_status": "nao_identificavel",
+    "image_desc": "⚠️ Menção a placa ou sinalização de trânsito, porém o simulador original não incluiu imagem ilustrativa (print estritamente textual) [Origem: WhatsApp Image 2026-09-04 at 20.24.18 (2).jpeg]",
+    "duplicates": [
+      "WhatsApp Image 2026-09-04 at 20.25.20 (2).jpeg"
+    ],
+    "gabarito_text": "Violação de movimento de 2 pts"
+  },
+  {
+    "id": "DR-079",
+    "num": 7,
+    "file": "WhatsApp Image 2026-09-04 at 20.25.12.jpeg",
+    "question": "O significado de um sinal de mão quando a mão ou o braço de um motorista estão para baixo é:",
+    "options": {
+      "D": "Pare ou diminua a velocidade",
+      "A": "Move à esquerda",
+      "B": "Inversão de marcha",
+      "C": "Cire à direita"
+    },
+    "gabarito": "D",
+    "image": null,
+    "image_status": "nao_identificavel",
+    "image_desc": "⚠️ Menção a placa ou sinalização de trânsito, porém o simulador original não incluiu imagem ilustrativa (print estritamente textual) [Origem: WhatsApp Image 2026-09-04 at 20.25.12.jpeg]",
+    "duplicates": [],
+    "gabarito_text": "Pare ou diminua a velocidade"
+  },
+  {
+    "id": "DR-080",
+    "num": 24,
+    "file": "WhatsApp Image 2026-09-04 at 20.25.13 (1).jpeg",
+    "question": "As horas de condução de um titular de Permissão GDL ou Licença Probatória com menos de 21 anos são restritas a:",
+    "options": {
+      "B": "5:01 às 23:00",
+      "A": "6:01 da manhã para meia-noite",
+      "C": "Nenhuma restrição se aplica",
+      "D": "5:01 da manhã até meia-noite"
+    },
+    "gabarito": "B",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.25.13 (1).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "5:01 às 23:00"
+  },
+  {
+    "id": "DR-081",
+    "num": 22,
+    "file": "WhatsApp Image 2026-09-04 at 20.25.13 (2).jpeg",
+    "question": "Exceto veículos novos, seu carro deve ser inspecionado em uma instalação de inspeção estadual ou em uma instalação de inspeção privada licenciada pelo estado",
+    "options": {
+      "D": "a cada dois anos",
+      "A": "anualmente",
+      "C": "a cada 5.000 milhas",
+      "B": "a cada seis meses"
+    },
+    "gabarito": "D",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.25.13 (2).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "a cada dois anos"
+  },
+  {
+    "id": "DR-082",
+    "num": 25,
+    "file": "WhatsApp Image 2026-09-04 at 20.25.13.jpeg",
+    "question": "Se você chegar a uma parada de várias vias ao mesmo tempo que outro motorista, você deve:",
+    "options": {
+      "B": "Ceda ao motorista à direita",
+      "A": "Ceda aos carros que se aproximam",
+      "C": "Ceda ao motorista à esquerda",
+      "D": "Ceda aos carros que passam"
+    },
+    "gabarito": "B",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.25.13.jpeg]",
+    "duplicates": [],
+    "gabarito_text": "Ceda ao motorista à direita"
+  },
+  {
+    "id": "DR-083",
+    "num": 18,
+    "file": "WhatsApp Image 2026-09-04 at 20.25.14 (1).jpeg",
+    "question": "O veículo usado para o teste de estrada pode não ter:",
+    "options": {
+      "B": "Quaisquer obstruções ou consoles entre o motorista e o examinador o)",
+      "A": "Nenhuma das opções acima",
+      "C": "Um adesivo de inspeção válido",
+      "D": "Um registro fora do estado"
+    },
+    "gabarito": "B",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.25.14 (1).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "Quaisquer obstruções ou consoles entre o motorista e o examinador o)"
+  },
+  {
+    "id": "DR-084",
+    "num": 15,
+    "file": "WhatsApp Image 2026-09-04 at 20.25.14 (2).jpeg",
+    "question": "Em uma estrada de duas pistas, não perto de uma zona escolar, quando um ônibus está parado e suas luzes vermelhas estão piscando:",
+    "options": {
+      "B": "Você deve parar",
+      "A": "Você pode passar o ônibus com",
+      "D": "Você pode passar de qualquer",
+      "C": "Você pode passar o ônibus a 10 mpl ou menos"
+    },
+    "gabarito": "B",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.25.14 (2).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "Você deve parar"
+  },
+  {
+    "id": "DR-085",
+    "num": 13,
+    "file": "WhatsApp Image 2026-09-04 at 20.25.14 (3).jpeg",
+    "question": "Se seus freios falharem de repente, o que você deve tentar fazer é:",
+    "options": {
+      "C": "Mude para uma marcha mais baixa « bombeie os freios várias vezes",
+      "B": "Desligue a ignição",
+      "D": "Toque a buzina e a costa para parar",
+      "A": "Dirija no acostamento para reduzir « velocidade"
+    },
+    "gabarito": "C",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.25.14 (3).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "Mude para uma marcha mais baixa « bombeie os freios várias vezes"
+  },
+  {
+    "id": "DR-086",
+    "num": 16,
+    "file": "WhatsApp Image 2026-09-04 at 20.25.14.jpeg",
+    "question": "Quando você se muda para Nova Jersey de outro estado, você deve ter seu veículo inspecionado dentro de",
+    "options": {
+      "B": "14 dias após o registro",
+      "C": "2 meses após o registro",
+      "D": "6 meses após o registro",
+      "A": "90 dias após o registro"
+    },
+    "gabarito": "B",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.25.14.jpeg]",
+    "duplicates": [],
+    "gabarito_text": "14 dias após o registro"
+  },
+  {
+    "id": "DR-087",
+    "num": 11,
+    "file": "WhatsApp Image 2026-09-04 at 20.25.15 (1).jpeg",
+    "question": "Quando o seu privilégio de dirigir for restaurado para suspensão de pontos, você estará em um período probatório para:",
+    "options": {
+      "B": "9 meses",
+      "C": "2 anos",
+      "D": "1 ano",
+      "A": "6 meses"
+    },
+    "gabarito": null,
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.25.15 (1).jpeg]",
+    "duplicates": []
+  },
+  {
+    "id": "DR-088",
+    "num": 10,
+    "file": "WhatsApp Image 2026-09-04 at 20.25.15 (2).jpeg",
+    "question": "A mudança de endereço deve ser feita dentro de qual período de tempo:",
+    "options": {
+      "A": "1 semana",
+      "B": "2 semanas",
+      "D": "2 meses",
+      "C": "6 semanas"
+    },
+    "gabarito": "A",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.25.15 (2).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "1 semana"
+  },
+  {
+    "id": "DR-089",
+    "num": 4,
+    "file": "WhatsApp Image 2026-09-04 at 20.25.16 (1).jpeg",
+    "question": "Dirigindo na cidade, você deve:",
+    "options": {
+      "A": "Dirija devagar, ceda aos pedestres € olhe pelo menos 12 segundos à frente",
+      "B": "Acelere, ceda aos pedestres e olhe 2",
+      "C": "Dirija devagar e toque a buzina a",
+      "D": "Dirija devagar, observe os veículos"
+    },
+    "gabarito": "A",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.25.16 (1).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "Dirija devagar, ceda aos pedestres € olhe pelo menos 12 segundos à frente"
+  },
+  {
+    "id": "DR-090",
+    "num": 16,
+    "file": "WhatsApp Image 2026-09-04 at 20.25.16 (2).jpeg",
+    "question": "Uma faixa de aceleração é:",
+    "options": {
+      "C": "A faixa da esquerda em uma rodovi: de duas pistas",
+      "A": "Uma pista extra na saída da rodovia",
+      "B": "Uma faixa extra na entrada da rodovia",
+      "D": "A faixa de passagem"
+    },
+    "gabarito": "C",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.25.16 (2).jpeg]",
+    "duplicates": [
+      "WhatsApp Image 2026-09-04 at 20.25.25 (1).jpeg",
+      "WhatsApp Image 2026-09-04 at 20.25.25.jpeg"
+    ],
+    "gabarito_text": "A faixa da esquerda em uma rodovi: de duas pistas"
+  },
+  {
+    "id": "DR-091",
+    "num": 15,
+    "file": "WhatsApp Image 2026-09-04 at 20.25.16 (3).jpeg",
+    "question": "Se você tiver um pneu furado ou estourado, você deve:",
+    "options": {
+      "D": "Diminua a velocidade gradualmente e remova o pé do pedal do acelerador",
+      "A": "Continue na velocidade normal até",
+      "B": "Aplique seus freios",
+      "C": "Continuar dirigindo"
+    },
+    "gabarito": "D",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.25.16 (3).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "Diminua a velocidade gradualmente e remova o pé do pedal do acelerador"
+  },
+  {
+    "id": "DR-092",
+    "num": 7,
+    "file": "WhatsApp Image 2026-09-04 at 20.25.16.jpeg",
+    "question": "Em Nova Jersey, pneus cravejados podem ser usados legalmente entre",
+    "options": {
+      "C": "15 de novembro e 1o de abril",
+      "A": "15 de outubro e 15 de março",
+      "B": "10 de abril e 15 de dezembro",
+      "D": "30 de setembro e 30 de maio"
+    },
+    "gabarito": "C",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.25.16.jpeg]",
+    "duplicates": [],
+    "gabarito_text": "15 de novembro e 1o de abril"
+  },
+  {
+    "id": "DR-093",
+    "num": 11,
+    "file": "WhatsApp Image 2026-09-04 at 20.25.17 (1).jpeg",
+    "question": "Excluindo veículos novos, um carro deve ser inspecionado",
+    "options": {
+      "D": "a cada dois anos",
+      "A": "todos os anos",
+      "B": "a cada 6 meses",
+      "C": "a cada 3.000 milhas"
+    },
+    "gabarito": "D",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.25.17 (1).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "a cada dois anos"
+  },
+  {
+    "id": "DR-094",
+    "num": null,
+    "file": "WhatsApp Image 2026-09-04 at 20.25.17 (2).jpeg",
+    "question": "permissão GDL é elegível para obter uma Carteira de Motorista Básica?",
+    "options": {
+      "A": "Quando tiver 18 anos e tiver",
+      "B": "Quando 17 anos com 6 meses de",
+      "C": "Quando 17 anos com 1 ano de"
+    },
+    "gabarito": null,
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.25.17 (2).jpeg]",
+    "duplicates": []
+  },
+  {
+    "id": "DR-095",
+    "num": 3,
+    "file": "WhatsApp Image 2026-09-04 at 20.25.18 (1).jpeg",
+    "question": "Se o pedal do acelerador ficar preso, você deve manter os olhos na estrada e rapidamente:",
+    "options": {
+      "C": "Mude para neutro e direcione o",
+      "A": "Segure o volante com firmeza, mude",
+      "B": "Nenhuma das respostas",
+      "D": "Deixe o veículo parar"
+    },
+    "gabarito": "C",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.25.18 (1).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "Mude para neutro e direcione o"
+  },
+  {
+    "id": "DR-096",
+    "num": 2,
+    "file": "WhatsApp Image 2026-09-04 at 20.25.18 (2).jpeg",
+    "question": "O titular de uma Licença Probatória com menos de 21 anos pode dirigir sem supervisão quando o seguinte requisito for atendido:",
+    "options": {
+      "C": "Depois de completar o minimo de 6",
+      "A": "solicitou uma licença especial",
+      "B": "Atingiu a idade de 16 anos",
+      "D": "Nenhuma das respostas"
+    },
+    "gabarito": "C",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.25.18 (2).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "Depois de completar o minimo de 6"
+  },
+  {
+    "id": "DR-097",
+    "num": 1,
+    "file": "WhatsApp Image 2026-09-04 at 20.25.18 (3).jpeg",
+    "question": "Quando você vir ou ouvir veículos de emergência respondendo com sirenes e/ou luzes piscando, você deve:",
+    "options": {
+      "A": "Acelere e fique pelo menos 100 pés à frente deles",
+      "B": "Siga-os",
+      "C": "Diminua a velocidade e deixe-os passar",
+      "D": "Pare à direita da estrada e pare, deixando-os passar"
+    },
+    "gabarito": "D",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.25.18 (3).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "Pare à direita da estrada e pare, deixando-os passar"
+  },
+  {
+    "id": "DR-098",
+    "num": 50,
+    "file": "WhatsApp Image 2026-09-04 at 20.25.18 (4).jpeg",
+    "question": "Se uma pessoa ficar bêbada em sua casa e sofrer um acidente de carro depois de sair de sua casa, você pode",
+    "options": {
+      "B": "se envolver em uma ação judicial",
+      "C": "não ser responsabilizado",
+      "D": "nenhuma das respostas",
+      "A": "ser acusado de um crime"
+    },
+    "gabarito": "B",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.25.18 (4).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "se envolver em uma ação judicial"
+  },
+  {
+    "id": "DR-099",
+    "num": 4,
+    "file": "WhatsApp Image 2026-09-04 at 20.25.18.jpeg",
+    "question": "É permitido passar pela direita em estradas com mais de uma faixa indo na mesma direção, quando:",
+    "options": {
+      "A": "O veículo à frente está virando à esquerda e há espaço para passar",
+      "C": "Não há sinais de trânsito",
+      "D": "Entrando em um cruzamento",
+      "B": "Há um veículo em movimento lento. frente"
+    },
+    "gabarito": "A",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.25.18.jpeg]",
+    "duplicates": [],
+    "gabarito_text": "O veículo à frente está virando à esquerda e há espaço para passar"
+  },
+  {
+    "id": "DR-100",
+    "num": 46,
+    "file": "WhatsApp Image 2026-09-04 at 20.25.19 (1).jpeg",
+    "question": "Quando um ônibus escolar parou diretamente em frente a uma escola deixando ou pegando crianças, você pode passar de qualquer direção em que velocidade:",
+    "options": {
+      "D": "10 mph",
+      "A": "15 mph",
+      "B": "25 mph",
+      "C": "20 mph"
+    },
+    "gabarito": "D",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.25.19 (1).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "10 mph"
+  },
+  {
+    "id": "DR-101",
+    "num": 42,
+    "file": "WhatsApp Image 2026-09-04 at 20.25.19 (2).jpeg",
+    "question": "Aproximando-se de um cruzamento descontrolado, você deve:",
+    "options": {
+      "B": "Reduza a velocidade e esteja pronto para parar",
+      "C": "Diminua a velocidade e olhe para",
+      "D": "Acelerar",
+      "A": "Pare"
+    },
+    "gabarito": "B",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.25.19 (2).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "Reduza a velocidade e esteja pronto para parar"
+  },
+  {
+    "id": "DR-102",
+    "num": 47,
+    "file": "WhatsApp Image 2026-09-04 at 20.25.19.jpeg",
+    "question": "Se suas rodas se desviarem para o acostamento da estrada e você quiser retornar à estrada pavimentada, você deve",
+    "options": {
+      "A": "diminua a velocidade e recupere o controle",
+      "B": "dirija ao longo do acostamento até",
+      "C": "dirija ao longo do acostamento até"
+    },
+    "gabarito": "A",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.25.19.jpeg]",
+    "duplicates": [],
+    "gabarito_text": "diminua a velocidade e recupere o controle"
+  },
+  {
+    "id": "DR-103",
+    "num": 37,
+    "file": "WhatsApp Image 2026-09-04 at 20.25.20 (3).jpeg",
+    "question": "Você deve sinalizar quantos pés antes de fazer uma curva:",
+    "options": {
+      "C": "100 pés",
+      "A": "Nenhuma das respostas",
+      "B": "1000 pés",
+      "D": "10 pés"
+    },
+    "gabarito": "C",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.25.20 (3).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "100 pés"
+  },
+  {
+    "id": "DR-104",
+    "num": 36,
+    "file": "WhatsApp Image 2026-09-04 at 20.25.20 (4).jpeg",
+    "question": "Você não pode estacionar a poucos metros de um sinal de pare?",
+    "options": {
+      "B": "50 pés",
+      "A": "20 pés",
+      "D": "25 pés",
+      "C": "10 pés"
+    },
+    "gabarito": "B",
+    "image": null,
+    "image_status": "nao_identificavel",
+    "image_desc": "⚠️ Menção a placa ou sinalização de trânsito, porém o simulador original não incluiu imagem ilustrativa (print estritamente textual) [Origem: WhatsApp Image 2026-09-04 at 20.25.20 (4).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "50 pés"
+  },
+  {
+    "id": "DR-105",
+    "num": 35,
+    "file": "WhatsApp Image 2026-09-04 at 20.25.20 (5).jpeg",
+    "question": "Para evitar a \"hipnose na rodovia\" ao dirigir, é uma boa prática:",
+    "options": {
+      "D": "Evite olhar para qualquer coisa por mais de alguns segundos",
+      "A": "Descanse seus olhos piscando",
+      "B": "Use seus espelhos",
+      "C": "Olhe com a cabeça reta"
+    },
+    "gabarito": "D",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.25.20 (5).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "Evite olhar para qualquer coisa por mais de alguns segundos"
+  },
+  {
+    "id": "DR-106",
+    "num": 41,
+    "file": "WhatsApp Image 2026-09-04 at 20.25.20.jpeg",
+    "question": "O maior número de pessoas presas por dirigir embriagado estava bebendo",
+    "options": {
+      "A": "cerveja",
+      "B": "uísque",
+      "C": "vinho",
+      "D": "bebidas mistas"
+    },
+    "gabarito": "A",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.25.20.jpeg]",
+    "duplicates": [],
+    "gabarito_text": "cerveja"
+  },
+  {
+    "id": "DR-107",
+    "num": 33,
+    "file": "WhatsApp Image 2026-09-04 at 20.25.21 (1).jpeg",
+    "question": "Em casos extremos, um motorista agressivo pode",
+    "options": {
+      "A": "Causar um acidente",
+      "B": "Todas as respostas &)",
+      "C": "Faça paradas completas no semáforo",
+      "D": "ficar dentro ou abaixo do limite de"
+    },
+    "gabarito": "A",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.25.21 (1).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "Causar um acidente"
+  },
+  {
+    "id": "DR-108",
+    "num": 32,
+    "file": "WhatsApp Image 2026-09-04 at 20.25.21 (2).jpeg",
+    "question": "Um sinal em forma de triângulo é um:",
+    "options": {
+      "B": "Sinal de rendimento",
+      "C": "Sinal de ferrovia",
+      "D": "Sinal de parada",
+      "A": "Sinal de aviso"
+    },
+    "gabarito": "B",
+    "image": null,
+    "image_status": "nao_identificavel",
+    "image_desc": "⚠️ Menção a placa ou sinalização de trânsito, porém o simulador original não incluiu imagem ilustrativa (print estritamente textual) [Origem: WhatsApp Image 2026-09-04 at 20.25.21 (2).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "Sinal de rendimento"
+  },
+  {
+    "id": "DR-109",
+    "num": 30,
+    "file": "WhatsApp Image 2026-09-04 at 20.25.21 (3).jpeg",
+    "question": "O titular de uma permissão de exame ou motorista probatório com mais de 21 anos está limitado a quantos passageiros?",
+    "options": {
+      "D": "Nenhuma das respostas",
+      "B": "1a menos que acompanhado por um",
+      "C": "2 a menos que acompanhado por um",
+      "A": "1 mais quaisquer dependentes"
+    },
+    "gabarito": "D",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.25.21 (3).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "Nenhuma das respostas"
+  },
+  {
+    "id": "DR-110",
+    "num": 34,
+    "file": "WhatsApp Image 2026-09-04 at 20.25.21.jpeg",
+    "question": "A mão e o braço do motorista apontando para a frente indicam qual sinal direcional?",
+    "options": {
+      "B": "Bire à esquerda",
+      "C": "Pare",
+      "D": "vira à direita",
+      "A": "Inversão de marcha"
+    },
+    "gabarito": "B",
+    "image": null,
+    "image_status": "nao_identificavel",
+    "image_desc": "⚠️ Menção a placa ou sinalização de trânsito, porém o simulador original não incluiu imagem ilustrativa (print estritamente textual) [Origem: WhatsApp Image 2026-09-04 at 20.25.21.jpeg]",
+    "duplicates": [],
+    "gabarito_text": "Bire à esquerda"
+  },
+  {
+    "id": "DR-111",
+    "num": 26,
+    "file": "WhatsApp Image 2026-09-04 at 20.25.22 (1).jpeg",
+    "question": "Um motorista deve ser cauteloso em terras agrícolas ou em terreno aberto porque:",
+    "options": {
+      "B": "Travessia inesperada de gado e/ou veados",
+      "A": "As estradas são mais estreitas e com",
+      "C": "Não há semáforos ou sinais",
+      "D": "Nenhuma das respostas"
+    },
+    "gabarito": "B",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.25.22 (1).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "Travessia inesperada de gado e/ou veados"
+  },
+  {
+    "id": "DR-112",
+    "num": 24,
+    "file": "WhatsApp Image 2026-09-04 at 20.25.22 (2).jpeg",
+    "question": "Quanto tempo mais um caminhão levará para parar durante as más condições climáticas?",
+    "options": {
+      "A": "25% a mais",
+      "B": "50% a mais",
+      "C": "70% a mais",
+      "D": "100% mais"
+    },
+    "gabarito": "A",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.25.22 (2).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "25% a mais"
+  },
+  {
+    "id": "DR-113",
+    "num": 23,
+    "file": "WhatsApp Image 2026-09-04 at 20.25.22 (3).jpeg",
+    "question": "Se você chegar a uma parada de várias vias ao mesmo tempo que outro motorista, você deve:",
+    "options": {
+      "C": "Ceda ao motorista à direita",
+      "A": "Ceda ao motorista à esquerda",
+      "B": "Ceda aos carros que passam",
+      "D": "Ceda aos carros que se aproximam"
+    },
+    "gabarito": "C",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.25.22 (3).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "Ceda ao motorista à direita"
+  },
+  {
+    "id": "DR-114",
+    "num": 21,
+    "file": "WhatsApp Image 2026-09-04 at 20.25.23 (1).jpeg",
+    "question": "Isenções às horas de regra para permissão e motoristas probatórios menores de 21 anos exigem prova de",
+    "options": {
+      "A": "Emprego e/ou religião",
+      "B": "Religião e/ou educação",
+      "C": "Nenhuma das opções acima",
+      "D": "Emprego e/ou educação"
+    },
+    "gabarito": "A",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.25.23 (1).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "Emprego e/ou religião"
+  },
+  {
+    "id": "DR-115",
+    "num": 19,
+    "file": "WhatsApp Image 2026-09-04 at 20.25.23 (2).jpeg",
+    "question": "Qualquer veículo operado por um motorista GDL com menos de 21 anos deve exibir:",
+    "options": {
+      "C": "1 decalque vermelho reflexivo na alaca frontal e traseira",
+      "A": "2 decalques reflexivos em cada placa",
+      "B": "1 decalque vermelho reflexivo na"
+    },
+    "gabarito": "C",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.25.23 (2).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "1 decalque vermelho reflexivo na alaca frontal e traseira"
+  },
+  {
+    "id": "DR-116",
+    "num": 18,
+    "file": "WhatsApp Image 2026-09-04 at 20.25.23 (3).jpeg",
+    "question": "Se um motorista atingir um BAC de 15%, o risco de causar um acidente de carro é:",
+    "options": {
+      "D": "25x maior o)",
+      "A": "Duplo",
+      "B": "Nenhuma das respostas",
+      "C": "6x maior"
+    },
+    "gabarito": "D",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.25.23 (3).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "25x maior o)"
+  },
+  {
+    "id": "DR-117",
+    "num": 22,
+    "file": "WhatsApp Image 2026-09-04 at 20.25.23.jpeg",
+    "question": "Um semáforo vermelho piscando significa",
+    "options": {
+      "B": "parar, ceder ao tráfego e pedestres",
+      "C": "pare, espere pelo verde",
+      "D": "lento, ceda ao tráfego à direita",
+      "A": "tenha cuidado ao entrar em um cruzamento"
+    },
+    "gabarito": "B",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.25.23.jpeg]",
+    "duplicates": [],
+    "gabarito_text": "parar, ceder ao tráfego e pedestres"
+  },
+  {
+    "id": "DR-118",
+    "num": 12,
+    "file": "WhatsApp Image 2026-09-04 at 20.25.24 (1).jpeg",
+    "question": "Uma Permissão Especial de Aprendiz pode ser adquirida por um instrutor aprovado, quando o candidato:",
+    "options": {
+      "A": "Todas as respostas",
+      "C": "Está matriculado em um curso de",
+      "D": "Tem pelo menos 16 anos e menos de",
+      "B": "Tem um consentimento assinado por im dos pais ou responsável"
+    },
+    "gabarito": "A",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.25.24 (1).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "Todas as respostas"
+  },
+  {
+    "id": "DR-119",
+    "num": 11,
+    "file": "WhatsApp Image 2026-09-04 at 20.25.24 (2).jpeg",
+    "question": "Exceto veículos novos, seu carro deve ser inspecionado em uma instalação de inspeção estadual ou em uma instalação de inspeção privada licenciada pelo estado",
+    "options": {
+      "D": "a cada dois anos o)",
+      "B": "a cada seis meses",
+      "C": "anualmente",
+      "A": "a cada 5.000 milhas"
+    },
+    "gabarito": "D",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.25.24 (2).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "a cada dois anos o)"
+  },
+  {
+    "id": "DR-120",
+    "num": 17,
+    "file": "WhatsApp Image 2026-09-04 at 20.25.24 (3).jpeg",
+    "question": "Quanta distância de frenagem um veículo levará para parar em uma superfície seca, ao dirigir a uma velocidade de 60 mph?",
+    "options": {
+      "C": "300 pés",
+      "A": "55 pés",
+      "B": "20 pés",
+      "D": "500 pés"
+    },
+    "gabarito": "C",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.25.24 (3).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "300 pés"
+  },
+  {
+    "id": "DR-121",
+    "num": 14,
+    "file": "WhatsApp Image 2026-09-04 at 20.25.24.jpeg",
+    "question": "Uma lata de cerveja de doze onças tem tanto álcool quanto",
+    "options": {
+      "B": "11/2 onças de uísque",
+      "A": "uma garrafa de rum",
+      "C": "2 martinis",
+      "D": "um litro de conhaque"
+    },
+    "gabarito": "B",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.25.24.jpeg]",
+    "duplicates": [],
+    "gabarito_text": "11/2 onças de uísque"
+  },
+  {
+    "id": "DR-122",
+    "num": 6,
+    "file": "WhatsApp Image 2026-09-04 at 20.25.25 (2).jpeg",
+    "question": "Por quanto tempo você deve ter uma carteira de motorista probatória?",
+    "options": {
+      "D": "1 Ano",
+      "A": "4 Anos",
+      "B": "6 Meses",
+      "C": "3 Meses"
+    },
+    "gabarito": "D",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.25.25 (2).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "1 Ano"
+  },
+  {
+    "id": "DR-123",
+    "num": 5,
+    "file": "WhatsApp Image 2026-09-04 at 20.25.25 (3).jpeg",
+    "question": "Após a conclusão dos requisitos GDL, (um ano de direção não supervisionada), o titular de uma Licença de Liberdade Condicional deve",
+    "options": {
+      "B": "visite qualquer escritório da Agênci: MVC para obter uma Licença Básica irrestrita",
+      "A": "visite qualquer escritório da Agência",
+      "C": "visite qualquer escritório da MVC e",
+      "D": "visite qualquer escritório da Agência"
+    },
+    "gabarito": "B",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.25.25 (3).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "visite qualquer escritório da Agênci: MVC para obter uma Licença Básica irrestrita"
+  },
+  {
+    "id": "DR-124",
+    "num": 4,
+    "file": "WhatsApp Image 2026-09-04 at 20.25.25 (4).jpeg",
+    "question": "Os faróis devem ser usados:",
+    "options": {
+      "D": "Entre 1/2 hora após o pôr do sole 1/",
+      "A": "Amanhecer a escurecer",
+      "B": "Das 20:00 às 8:00",
+      "C": "Das 18:00 às 6:00"
+    },
+    "gabarito": "D",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.25.25 (4).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "Entre 1/2 hora após o pôr do sole 1/"
+  },
+  {
+    "id": "DR-125",
+    "num": 2,
+    "file": "WhatsApp Image 2026-09-04 at 20.25.26 (1).jpeg",
+    "question": "Um sinal de forma de octógono significa: o oi",
+    "options": {
+      "A": "Pare",
+      "B": "Rendimento",
+      "C": "Travessia ferroviária",
+      "D": "Diminua a velocidade"
+    },
+    "gabarito": "A",
+    "image": null,
+    "image_status": "nao_identificavel",
+    "image_desc": "⚠️ Menção a placa ou sinalização de trânsito, porém o simulador original não incluiu imagem ilustrativa (print estritamente textual) [Origem: WhatsApp Image 2026-09-04 at 20.25.26 (1).jpeg]",
+    "duplicates": [],
+    "gabarito_text": "Pare"
+  },
+  {
+    "id": "DR-126",
+    "num": 1,
+    "file": "WhatsApp Image 2026-09-04 at 20.25.26 (2).jpeg",
+    "question": "Em Nova Jersey, você deve ter pelo menos — anos de idade para registrar um veículo a motor. A O",
+    "options": {
+      "B": "15",
+      "A": "17",
+      "C": "21"
+    },
+    "gabarito": null,
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.25.26 (2).jpeg]",
+    "duplicates": []
+  },
+  {
+    "id": "DR-127",
+    "num": 3,
+    "file": "WhatsApp Image 2026-09-04 at 20.25.26.jpeg",
+    "question": "Excluindo dependentes, quantos passageiros é o titular de uma Carteira de Motorista Probatória (menores de 21 anos) autorizado a ter no veículo",
+    "options": {
+      "C": "Um passageiro adicional a menos",
+      "A": "Sem passageiros",
+      "B": "3 ou mais passageiros",
+      "D": "dois passageiros adicionais"
+    },
+    "gabarito": "C",
+    "image": null,
+    "image_status": "sem_imagem",
+    "image_desc": "Questão puramente conceitual (sem imagem no print) [Origem: WhatsApp Image 2026-09-04 at 20.25.26.jpeg]",
+    "duplicates": [],
+    "gabarito_text": "Um passageiro adicional a menos"
+  }
+]
