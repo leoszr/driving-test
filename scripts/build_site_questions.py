@@ -20,6 +20,9 @@ def normalize_text(text):
     text = re.sub(r"[^a-záéíóúâêîôûãõç0-9\s]", "", text.lower())
     return " ".join(text.split())
 
+
+archived_questions = {normalize_text(q["question"]) for q in archived}
+
 def clean_text(text):
     return re.sub(r"\s+(?:[0Oo]\)|Dt)$", "", text.strip()).strip()
 
@@ -36,6 +39,9 @@ def valid_extracted_options(options):
 
 def add_question(question, options, answer, image=None):
     question = clean_text(question)
+    if normalize_text(question) in archived_questions:
+        return False
+
     options = [clean_text(option) for option in options]
     if not question or len(options) < 2 or not 0 <= answer < len(options):
         raise ValueError(f"Invalid question: {question!r}")
@@ -50,12 +56,6 @@ def add_question(question, options, answer, image=None):
     site_questions.append(item)
     seen_questions.add(key)
     return True
-
-for q in archived:
-    add_question(q["question"], q["options"], q["answer"], q.get("image"))
-
-archived_count = len(site_questions)
-
 
 # ePermitTest questions: Portuguese text, verified answers and illustrations.
 for q in epermit:
@@ -332,6 +332,4 @@ for q in site_questions:
 with open("questions.json", "w", encoding="utf-8") as f:
     json.dump(site_questions, f, indent=2, ensure_ascii=False)
 
-print(f"Existing bank: {archived_count}")
-print(f"New unique questions: {len(site_questions) - archived_count}")
 print(f"Published bank: {len(site_questions)}")
